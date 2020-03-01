@@ -44,5 +44,7 @@ Output:
 <h3>Screenshots untuk yang menggunakan text editor</h3>
 Source code:<br>
 <img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175300.png">
-<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_180615.png">
+<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175319.png">
+Output:<br>
+<a href="https://github.com/S11720037/crawling-data-dari-IMDb/blob/master/output/arter.csv" target="_blank">https://github.com/S11720037/crawling-data-dari-IMDb/blob/master/output/arter.csv</a>
 
