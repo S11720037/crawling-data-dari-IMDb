@@ -34,8 +34,8 @@ Program ini dibuat untuk mengambil data dari IMDb dan RottenTomatoes.
 
 <h3>Screenshots untuk Google Colaboratory</h3>
 Source code:
-<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175136.png" width="50%">
-<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175205.png" width="50%">
+<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175136.png">
+<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175205.png">
 Output:
 <img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_180557.png">
 <img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_180615.png">
@@ -43,5 +43,6 @@ Output:
 <hr>
 <h3>Screenshots untuk yang menggunakan text editor</h3>
 Source code:<br>
-arter
-![description](/screenshots/Screenshot_20200301_175300.png)
+<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175300.png">
+<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_180615.png">
+
