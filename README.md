@@ -44,4 +44,4 @@ Output:
 <h3>Screenshots untuk yang menggunakan text editor</h3>
 Source code:<br>
 arter
-![description](screenshots/Screenshot_20200301_175300.png)
+![description](/screenshots/Screenshot_20200301_175300.png)
