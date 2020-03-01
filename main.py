@@ -142,7 +142,6 @@ def tomatoes(daftarJudul):
 imdb('https://www.imdb.com/chart/toptv/?ref_=nv_mv_250')
 tomatoes(judulFilm)
 
-
 #menyimpan semua data yang didapatkan kedalam file dengan format csv
 dict = {'No' : nomor,
         'Judul' : judulFilm, 'Tahun' : tahunFilm, 'Durasi' : durasiFilm, 'Kategori' : kategoriFilm, 'Skor IMDb' : skorFilm_imdb, 'Pengguna IMDb' : jumlahPengguna_imdb, 'Deskripsi' : deskripsiFilm, 'Pemeran' : pemeranFilm,
