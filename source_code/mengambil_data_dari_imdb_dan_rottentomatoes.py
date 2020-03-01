@@ -27,7 +27,6 @@ skorFilmDariPengguna_tomatoes = []
 jumlahPengguna_tomatoes = []
 nomor = []
 
-
 #imdb
 def imdb(url):
   result = requests.get(url)
