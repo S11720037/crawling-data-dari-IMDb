@@ -37,6 +37,6 @@ Source code:
 <img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175136.png">
 <img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175205.png">
 Output:
-<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_180557.png>
+<img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_180557.png">
 <img src="https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_180615.png">
 
