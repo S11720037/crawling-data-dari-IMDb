@@ -42,4 +42,5 @@ Output:
 
 <hr>
 <h3>Screenshots untuk yang menggunakan text editor</h3>
-![screenshots](https://github.com/S11720037/crawling-data-dari-IMDb/raw/master/screenshots/Screenshot_20200301_175300.png)
+Source code:
+![screenshots]("screenshots/Screenshot_20200301_175300.png")
